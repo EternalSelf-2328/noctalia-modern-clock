@@ -4,7 +4,7 @@ Un widget de reloj moderno, altamente personalizable y con soporte para colores 
 
 ## ⚠️ Aviso ⚠️
 
-## Este es un proyecto personal que puede tener fallas.
+Este es un proyecto personal que puede tener fallas.
 
 Este es un proyecto personal creado (haciendo vibe coding) para adaptar la estética de KDE a Noctalia/Niri. Al ser un desarrollo individual, se proporciona "tal cual" y es posible que no reciba actualizaciones frecuentes o soporte técnico continuo. Eres totalmente libre de hacer un *fork*, modificar el código o enviar *pull requests* si deseas mejorarlo.
 
