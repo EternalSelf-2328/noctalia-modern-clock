@@ -1,0 +1,21 @@
+{
+  "id": "modern_clock",
+  "name": "Modern Clock",
+  "description": "Reloj para el escritorio",
+  "version": "1.0.0",
+  "author": "Sebas",
+  "entryPoints": {
+    "desktopWidget": "main.qml",
+    "settings": "settings.qml"
+  },
+  "metadata": {
+    "defaultSettings": {
+      "selectedFontFile": "Anurati-Regular.otf",
+      "textOpacity": 1.0,
+      "useThemeColors": true,
+      "customPrimaryColor": "#FFFFFF",
+      "customSecondaryColor": "#FFFFFF",
+      "customTextColor": "#D0D0D0"
+    }
+  }
+}
