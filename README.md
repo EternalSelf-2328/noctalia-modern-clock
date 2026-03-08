@@ -31,4 +31,3 @@ cd noctalia-modern-clock
 
 3. Abre los ajustes de Noctalia, habilita el plugin y agrégalo a tu escritorio.
 
-4. Guarda y cierra el archivo.
