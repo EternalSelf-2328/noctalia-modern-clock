@@ -9,7 +9,7 @@ Este es un proyecto personal creado (haciendo vibe coding) para adaptar la esté
 ## Características
 
 * **Colores Dinámicos:** Se adapta automáticamente a la paleta de colores de tu fondo de pantalla.
-* **Tipografías:** Se incluyen 3 fuentes, pero para evitarme cualquier problema futuro, puedes agregar cualquier fuente tipográfica que quieras en la carpeta fonts del plugin.
+* **Tipografías:** Se incluyen pocas fuentes, para evitarme cualquier problema futuro por temas de licencia. Pero puedes agregar cualquier fuente tipográfica que quieras en la carpeta fonts del plugin.
 * **Escaneo Automático:** Simplemente arrastra cualquier archivo `.ttf` u `.otf` a la carpeta `fonts/` y aparecerá instantáneamente en el menú de configuración.
 * **Menú Nativo:** Integración total con la interfaz de ajustes de Noctalia.
 
