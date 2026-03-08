@@ -18,7 +18,7 @@ Este es un proyecto personal creado (haciendo vibe coding) para adaptar la esté
 Clona este repositorio y ejecuta el script de instalación:
 
 ```bash
-git clone [https://github.com/TU_USUARIO/noctalia-modern-clock.git](https://github.com/TU_USUARIO/noctalia-modern-clock.git)
+git clone https://github.com/EternalSelf-2328/noctalia-modern-clock
 cd noctalia-modern-clock
 ./install.sh
 ```
